@@ -1,0 +1,13 @@
+D:\dokumenty\6. semestr 2021\databázové systémy2 LS2021\semestrální práce\aplikace\Sklad001\Sklad001\bin\Debug\Sklad001.exe.config
+D:\dokumenty\6. semestr 2021\databázové systémy2 LS2021\semestrální práce\aplikace\Sklad001\Sklad001\bin\Debug\Sklad001.exe
+D:\dokumenty\6. semestr 2021\databázové systémy2 LS2021\semestrální práce\aplikace\Sklad001\Sklad001\bin\Debug\Sklad001.pdb
+D:\dokumenty\6. semestr 2021\databázové systémy2 LS2021\semestrální práce\aplikace\Sklad001\Sklad001\obj\Debug\Sklad001.csprojAssemblyReference.cache
+D:\dokumenty\6. semestr 2021\databázové systémy2 LS2021\semestrální práce\aplikace\Sklad001\Sklad001\obj\Debug\Sklad001.Form1.resources
+D:\dokumenty\6. semestr 2021\databázové systémy2 LS2021\semestrální práce\aplikace\Sklad001\Sklad001\obj\Debug\Sklad001.Properties.Resources.resources
+D:\dokumenty\6. semestr 2021\databázové systémy2 LS2021\semestrální práce\aplikace\Sklad001\Sklad001\obj\Debug\Sklad001.csproj.GenerateResource.cache
+D:\dokumenty\6. semestr 2021\databázové systémy2 LS2021\semestrální práce\aplikace\Sklad001\Sklad001\obj\Debug\Sklad001.csproj.CoreCompileInputs.cache
+D:\dokumenty\6. semestr 2021\databázové systémy2 LS2021\semestrální práce\aplikace\Sklad001\Sklad001\obj\Debug\Sklad001.exe
+D:\dokumenty\6. semestr 2021\databázové systémy2 LS2021\semestrální práce\aplikace\Sklad001\Sklad001\obj\Debug\Sklad001.pdb
+D:\dokumenty\6. semestr 2021\databázové systémy2 LS2021\semestrální práce\aplikace\Sklad001\Sklad001\obj\Debug\Sklad001.Form2.resources
+D:\dokumenty\6. semestr 2021\databázové systémy2 LS2021\semestrální práce\aplikace\Sklad001\Sklad001\obj\Debug\Sklad001.ParentForm2.resources
+D:\dokumenty\6. semestr 2021\databázové systémy2 LS2021\semestrální práce\aplikace\Sklad001\Sklad001\obj\Debug\Sklad001.Form3.resources
